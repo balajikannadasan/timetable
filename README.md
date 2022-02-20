@@ -88,7 +88,7 @@ bgcolor="yellow">
 </body>
 </html>
 ~~~
-# OUPUT
+# OUTPUT
 <!DOCTYPE html>
 <html>
  <head>
